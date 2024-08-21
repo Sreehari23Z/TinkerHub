@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color:blue;
+}
+.container{
+    position: relative;
+    text-align: center;
+    border:2px solid black;
+    margin:5px;
+    padding:10px;
+}
+#Generator{
+    padding-top: 200px;
+    text-align: center;
+    border: 100px black;
+}
